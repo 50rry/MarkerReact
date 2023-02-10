@@ -10,14 +10,12 @@ This is a React application that displays markers on a Google Map using data fro
 
 1. Clone the repository:
 
-`git clone https://github.com/<your-github-username>/react-google-maps-marker-app.git`
+`git clone https://github.com/50rry/MarkerReact.git`
 
 2. Navigate to the directory and install the dependencies:
-`cd react-google-maps-marker-app npm install`
+`cd MarkerReact` `npm install`
 or
-`cd react-google-maps-marker-app
-   yarn install
-   `
+`cd MarkerReact``yarn install`
 3. Obtain a Google Maps API key and add it to the .env file in the root directory:
 `REACT_APP_GOOGLE_MAPS_API_KEY=<your-api-key>`
 4. Start the development server:
